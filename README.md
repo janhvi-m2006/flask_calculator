@@ -1,3 +1,5 @@
+My live project show on : https://flask-calculator-pu6s.onrender.com
+
 This project is a simple calculator built using Flask as the backend framework and HTML/CSS for the frontend design. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, and features a flower-themed user interface to make the experience visually appealing. The application is lightweight, beginner-friendly, and can be easily run in Visual Studio Code or any Python environment. By combining Flask’s routing and logic handling with a creative frontend, this project demonstrates how to build interactive web applications in Python.
 
 
